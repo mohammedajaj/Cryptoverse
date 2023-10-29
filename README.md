@@ -1,3 +1,4 @@
+# Cryptoverse
  React best practices
  State Management using Redux Toolkit
  UI Creation using Ant Design
